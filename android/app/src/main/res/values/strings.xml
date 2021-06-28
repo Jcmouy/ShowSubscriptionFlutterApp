@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">AppPlataforma</string>
+    <string name="facebook_app_id" translatable="false">385130872483784</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb385130872483784</string>
+</resources>

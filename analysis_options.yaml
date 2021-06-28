@@ -1,0 +1,10 @@
+include: package:lint/analysis_options.yaml
+
+analyzer:
+  exclude:
+    - lib/injection.config.dart
+    - lib/features/data/datasources/local/moor_database.g.dart
+    - lib/generated/intl/**
+    - lib/features/data/datasources/remote/clients/**.g.dart
+  errors:
+    missing_return: error
